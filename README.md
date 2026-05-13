@@ -13,4 +13,9 @@ The current flattening process is done using DSelector since there are certain b
   * Additional skimming for reduced run time/file size can be done running `hd_utilities/EfficiencyUtilities/NeutralUtilities/AnalyzeOutput/FlattenMissShow.cxx`
 ## Analysis 
 The rest of the analysis code is stored in the `hd_utilities/EfficiencyUtilities/NeutralUtilities/AnalyzeOutput` directory
-  * MakeHist.cxx will plot the numerator and denominator for each method
+  * MakeHist.cxx will plot the numerator and denominator for each method and relavant histograms.
+  * FitOmegaHists will grab the histograms from the previos code and fit the distributions and calculate the efficienies
+Once you familiarize yourself with the analysis, play around with the parameters of each step for better optimization.
+
+## Comparing Different Samples
+Repeat the steps of the analysis for different data and Monte Carlo samlples to compare the efficiencies.
