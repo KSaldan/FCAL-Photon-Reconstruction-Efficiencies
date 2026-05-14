@@ -1,7 +1,7 @@
 This repository is directed at describing the steps, along with usable code, in order to extract the photon reconstruction efficiencies of the FCAL.
 
 # Getting Started
-Perhaps the first step is to familiarize with our predicessor's analysis and the methods used to exctract the efficiencies.
+Perhaps the first step is to familiarize with our predecessor's analysis and the methods used to exctract the efficiencies.
 Jon Zarlings analysis note can be found here https://halldweb.jlab.org/doc-private/DocDB/ShowDocument?docid=4025, describing two methods used to extract the efficiencies. This uses omega -> 3Pi decay events so we will need both reconstructed data and Monte Carlo for this reaction.
 ## Final State Reconstruction
 The full reaction is as follows ɣp ->(π<sup>+</sup>π<sup>-</sup>π<sup>0</sup>)<sub>⍵</sub>p->π<sup>+</sup>π<sup>-</sup> Ɣ (Ɣ)<sub>m</sub>p.
