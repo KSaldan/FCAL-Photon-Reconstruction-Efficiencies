@@ -18,4 +18,4 @@ The rest of the analysis code is stored in the `hd_utilities/EfficiencyUtilities
 Once you familiarize yourself with the analysis, play around with the parameters of each step for better optimization.
 
 ## Comparing Different Samples
-Repeat the steps of the analysis for different data and Monte Carlo samlples to compare the efficiencies.
+Repeat the steps of the analysis for different data and Monte Carlo samples to compare the efficiencies.
